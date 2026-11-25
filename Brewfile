@@ -5,5 +5,7 @@ brew "uv"
 brew "pyenv"
 brew "libpq"
 
-cask "antigravity-cli"
-cask "claude-code"
+if OS.mac?
+  cask "antigravity-cli"
+  cask "claude-code"
+end
