@@ -1,1 +1,1 @@
-anthropic.claude-code
+# Personal-only VS Code extensions (none currently)
