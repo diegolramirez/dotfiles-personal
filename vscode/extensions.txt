@@ -1,1 +1,3 @@
-# Personal-only VS Code extensions (none currently)
+# Personal-only VS Code extensions
+james-yu.latex-workshop
+randomfractalsinc.geo-data-viewer
